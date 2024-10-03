@@ -1,0 +1,24 @@
+Couldn't get Public IP Address (most likely run out of queries or maximum queries).
+Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: RishikxD
+Private IP Address: 192.168.72.1
+
+ Total Physical RAM: 23.36GB 
+Couldn't get Public IP Address (most likely run out of queries or maximum queries).
+Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: RishikxD
+Private IP Address: 192.168.72.1
+
+ Total Physical RAM: 23.36GB 
+Couldn't get Public IP Address (most likely run out of queries or maximum queries).
+Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: RishikxD
+Private IP Address: 192.168.72.1
+
+ Total Physical RAM: 23.36GB 
